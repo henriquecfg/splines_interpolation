@@ -24,4 +24,4 @@ pip3 install matplotlib
 
 ## Comparison Between Results
 
-![](../MySpline.png)
+![Alt Text](https://github.com/henriquecfg/splines_interpolation/raw/master/MySpline.png)
