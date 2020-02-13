@@ -25,5 +25,3 @@ pip3 install matplotlib
 ## Comparison Between Results
 
 ![](../MySpline.png)
-![](../PythonSpline.png)
-
